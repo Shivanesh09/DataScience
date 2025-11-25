@@ -46,7 +46,8 @@ Each role is programmatically evaluated; only top performers meeting or exceedin
 - Interactive dashboards displaying player statistics, role assignments, and selection criteria
 - Objective, transparent team composition using quantified cricket metrics
 
-*(Add dashboard images here once available)*
+<img width="2141" height="1489" alt="image" src="https://github.com/user-attachments/assets/0f3a8cc5-f84d-4bbf-bf6c-cc3e5c0a97f2" />
+
 <img width="2577" height="1555" alt="image" src="https://github.com/user-attachments/assets/0c14d5d4-6786-47c5-97c6-71561b41be45" />
 
 
