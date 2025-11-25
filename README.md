@@ -29,7 +29,6 @@ README.md    # Project summary, workflow, setup instructions
 3. **Run scripts in `/scripts`** to generate updated CSV summaries (batting, bowling, match, player).
 4. **Open generated CSVs in Tableau** (see `/tableau/Best_World_XI.twb`).
 5. **Explore analytics and team selection dashboards**  
-   *(Add visuals to `/images` and link them once available.)*
 
 ## Roles & Selection Criteria
 
