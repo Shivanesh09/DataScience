@@ -47,6 +47,8 @@ Each role is programmatically evaluated; only top performers meeting or exceedin
 - Objective, transparent team composition using quantified cricket metrics
 
 *(Add dashboard images here once available)*
+<img width="2577" height="1555" alt="image" src="https://github.com/user-attachments/assets/0c14d5d4-6786-47c5-97c6-71561b41be45" />
+
 
 ## Data Sources
 
